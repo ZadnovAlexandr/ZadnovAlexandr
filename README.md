@@ -9,5 +9,5 @@ Skills: HTML / CSS / Git / Figma / Webpack / JavaScript (es6+)  React JS
 - 👯 Хочу работать и развиваться в команде профессионалов
 - 📫 Вы можете связаться со мной: A.zhadnov@mail.ru
 
-<a align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</a>   
+<div align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</div>   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
