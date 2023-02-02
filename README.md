@@ -1,16 +1,14 @@
-### Hi there 👋
+### Всем привет!👋 Меня зовут Александр
 
-<!--
-**ZadnovAlexandr/ZadnovAlexandr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я начинающий веб-разработчик.
+В настоящее время прохожу обучение в Яндекс.Практикуме.
 
-Here are some ideas to get you started:
+Skills: HTML / CSS / Git / Figma / Webpack / JavaScript (es6+)  React JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Сейчас я учусь Яндекс.Практикуме
+- 👯 Хочу работать и развиваться в команде профессионалов
+- 📫 Вы можете связаться со мной: A.zhadnov@mail.ru
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
